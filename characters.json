@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Confesor",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/9/9f/Jiji_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426185851"
+    },
+    {
+      "id": 2,
+      "name": "Iselda",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/b/bb/Iselda_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426185850"
+    },
+    {
+      "id": 3,
+      "name": "Leg Eater",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/3/32/Legeater_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426185851"
+    },
+    {
+      "id": 4,
+      "name": "Little Fool",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/4/41/Little_Fool_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184417"
+    },
+    {
+      "id": 5,
+      "name": "Millibelle",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/a/a6/Millibelle_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184419"
+    },
+    {
+      "id": 6,
+      "name": "NailSmith",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/4/48/Nailsmith_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184415"
+    },
+    {
+      "id": 7,
+      "name": "Seeker Lemm",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/1/14/Lemm_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184417"
+    },
+    {
+      "id": 8,
+      "name": "Salubra",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/2/27/Salubra_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184416"
+    },
+    {
+        "id": 9,
+        "name": "Sly",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/a5/Sly_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426183929"
+    },
+    {
+        "id": 10,
+        "name": "Soul Jinn",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/f/fd/Jinn_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426183930"
+    },
+    {
+        "id": 11,
+        "name": "Tuk",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/6/64/Tuk_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426183929"
+    },
+    {
+        "id": 12,
+        "name": "Divine",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/2/2c/Divine_Circle.png/revision/latest/scale-to-width-down/150?cb=20171028232123"
+    }
+  ]
