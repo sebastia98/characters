@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Mato",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/7/7b/Mato_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184415"
+    },
+    {
+      "id": 2,
+      "name": "Oro",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/5/52/Oro_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184416"
+    },
+    {
+      "id": 3,
+      "name": "Sheo",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/f/f2/Sheo_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426184415"
+    }
+]
