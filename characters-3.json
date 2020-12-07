@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Cloth",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/2/28/Cloth_Circle-2.png/revision/latest/scale-to-width-down/150?cb=20180830235225"
+    },
+    {
+      "id": 2,
+      "name": "Cornifer",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/c/c1/Cornifer_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426185850"
+    },
+    {
+      "id": 3,
+      "name": "Hornet",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/2/29/Hornet_Icon.png/revision/latest/scale-to-width-down/150?cb=20170511203606"
+    },
+    {
+      "id": 4,
+      "name": "Mushroom",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/f/fe/Mister_Mushroom_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426190446"
+    },
+    {
+      "id": 5,
+      "name": "Quirrel",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/0/03/Quirrel_Circle-2.png/revision/latest/scale-to-width-down/150?cb=20180830234915"
+    },
+    {
+      "id": 6,
+      "name": "Tiso",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/9/92/Tiso_Circle.png/revision/latest/scale-to-width-down/150?cb=20170426183930"
+    },
+    {
+      "id": 7,
+      "name": "Zote",
+      "img": "https://static.wikia.nocookie.net/hollowknight/images/1/12/Zote_Circle-2.png/revision/latest/scale-to-width-down/142?cb=20180831184143"
+    }
+  ]
